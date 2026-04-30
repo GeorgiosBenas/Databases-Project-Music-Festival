@@ -1,0 +1,17 @@
+[
+	{
+		"genre_1" : Alternative Rock,
+		"genre_2" : Rock,
+		"pair_count" : 17
+	},
+	{
+		"genre_1" : Electronic,
+		"genre_2" : House,
+		"pair_count" : 13
+	},
+	{
+		"genre_1" : Contemporary Folk,
+		"genre_2" : Folk,
+		"pair_count" : 12
+	}
+]

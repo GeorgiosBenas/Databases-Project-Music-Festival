@@ -1,0 +1,9 @@
+[
+	{
+		"artist_id" : 1,
+		"first_name" : "ArtistFirst1",
+		"last_name" : "ArtistLast1",
+		"avg_performance_score" : 4.7143,
+		"avg_overall_score" : 4.8571
+	}
+]

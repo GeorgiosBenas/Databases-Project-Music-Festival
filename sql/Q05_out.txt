@@ -1,0 +1,37 @@
+[
+	{
+		"artist_id" : 21,
+		"first_name" : "ArtistFirst21",
+		"last_name" : "ArtistLast21",
+		"birth_date" : "2001-01-22",
+		"festival_appearances" : 4
+	},
+	{
+		"artist_id" : 22,
+		"first_name" : "ArtistFirst22",
+		"last_name" : "ArtistLast22",
+		"birth_date" : "2002-01-23",
+		"festival_appearances" : 4
+	},
+	{
+		"artist_id" : 20,
+		"first_name" : "ArtistFirst20",
+		"last_name" : "ArtistLast20",
+		"birth_date" : "2000-01-21",
+		"festival_appearances" : 2
+	},
+	{
+		"artist_id" : 23,
+		"first_name" : "ArtistFirst23",
+		"last_name" : "ArtistLast23",
+		"birth_date" : "2003-01-24",
+		"festival_appearances" : 2
+	},
+	{
+		"artist_id" : 26,
+		"first_name" : "ArtistFirst26",
+		"last_name" : "ArtistLast26",
+		"birth_date" : "2006-01-27",
+		"festival_appearances" : 2
+	}
+]

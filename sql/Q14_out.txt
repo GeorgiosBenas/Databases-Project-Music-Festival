@@ -1,0 +1,14 @@
+[
+	{
+		"genre" : "Electronic",
+		"year1" : 2018,
+		"year2" : 2019,
+		"appearances" : 4
+	},
+	{
+		"genre" : "Rock",
+		"year1" : 2018,
+		"year2" : 2019,
+		"appearances" : 3
+	}
+]

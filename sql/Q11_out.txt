@@ -1,0 +1,110 @@
+[
+	{
+		"artist_id" : 3,
+		"first_name" : "ArtistFirst3",
+		"last_name" : "ArtistLast3",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 4,
+		"first_name" : "ArtistFirst4",
+		"last_name" : "ArtistLast4",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 5,
+		"first_name" : "ArtistFirst5",
+		"last_name" : "ArtistLast5",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 24,
+		"first_name" : "ArtistFirst24",
+		"last_name" : "ArtistLast24",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 6,
+		"first_name" : "ArtistFirst6",
+		"last_name" : "ArtistLast6",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 41,
+		"first_name" : "ArtistFirst41",
+		"last_name" : "ArtistLast41",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 25,
+		"first_name" : "ArtistFirst25",
+		"last_name" : "ArtistLast25",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 8,
+		"first_name" : "ArtistFirst8",
+		"last_name" : "ArtistLast8",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 43,
+		"first_name" : "ArtistFirst43",
+		"last_name" : "ArtistLast43",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 10,
+		"first_name" : "ArtistFirst10",
+		"last_name" : "ArtistLast10",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 44,
+		"first_name" : "ArtistFirst44",
+		"last_name" : "ArtistLast44",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 45,
+		"first_name" : "ArtistFirst45",
+		"last_name" : "ArtistLast45",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 47,
+		"first_name" : "ArtistFirst47",
+		"last_name" : "ArtistLast47",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 48,
+		"first_name" : "ArtistFirst48",
+		"last_name" : "ArtistLast48",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 17,
+		"first_name" : "ArtistFirst17",
+		"last_name" : "ArtistLast17",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 50,
+		"first_name" : "ArtistFirst50",
+		"last_name" : "ArtistLast50",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 18,
+		"first_name" : "ArtistFirst18",
+		"last_name" : "ArtistLast18",
+		"festival_participations" : 1
+	},
+	{
+		"artist_id" : 19,
+		"first_name" : "ArtistFirst19",
+		"last_name" : "ArtistLast19",
+		"festival_participations" : 1
+	}
+]

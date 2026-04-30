@@ -1,0 +1,37 @@
+[
+	{
+		"visitor_first_name" : "visitor_first_122",
+		"visitor_last_name" : "visitor_last_122",
+		"artist_first_name" : "ArtistFirst5",
+		"artist_last_name" : "ArtistLast5",
+		"total_score" : 15
+	},
+	{
+		"visitor_first_name" : "visitor_first_1",
+		"visitor_last_name" : "visitor_last_1",
+		"artist_first_name" : "ArtistFirst5",
+		"artist_last_name" : "ArtistLast5",
+		"total_score" : 15
+	},
+	{
+		"visitor_first_name" : "visitor_first_162",
+		"visitor_last_name" : "visitor_last_162",
+		"artist_first_name" : "ArtistFirst23",
+		"artist_last_name" : "ArtistLast23",
+		"total_score" : 15
+	},
+	{
+		"visitor_first_name" : "visitor_first_142",
+		"visitor_last_name" : "visitor_last_142",
+		"artist_first_name" : "ArtistFirst14",
+		"artist_last_name" : "ArtistLast14",
+		"total_score" : 10
+	},
+	{
+		"visitor_first_name" : "visitor_first_11",
+		"visitor_last_name" : "visitor_last_11",
+		"artist_first_name" : "ArtistFirst1",
+		"artist_last_name" : "ArtistLast1",
+		"total_score" : 5
+	}
+]

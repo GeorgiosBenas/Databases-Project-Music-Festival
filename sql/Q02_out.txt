@@ -1,0 +1,37 @@
+[
+	{
+		"artist_id" : 1,
+		"first_name" : "ArtistFirst1",
+		"last_name" : "ArtistLast1",
+		"genre" : "Rock",
+		"festival_participation" : "YES"
+	},
+	{
+		"artist_id" : 11,
+		"first_name" : "ArtistFirst11",
+		"last_name" : "ArtistLast11",
+		"genre" : "Rock",
+		"festival_participation" : "NO"
+	},
+	{
+		"artist_id" : 21,
+		"first_name" : "ArtistFirst21",
+		"last_name" : "ArtistLast21",
+		"genre" : "Rock",
+		"festival_participation" : "YES"
+	},
+	{
+		"artist_id" : 31,
+		"first_name" : "ArtistFirst31",
+		"last_name" : "ArtistLast31",
+		"genre" : "Rock",
+		"festival_participation" : "NO"
+	},
+	{
+		"artist_id" : 41,
+		"first_name" : "ArtistFirst41",
+		"last_name" : "ArtistLast41",
+		"genre" : "Rock",
+		"festival_participation" : "NO"
+	}
+]

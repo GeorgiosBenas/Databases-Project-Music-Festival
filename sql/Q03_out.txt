@@ -1,0 +1,29 @@
+[
+	{
+		"artist_id" : 38,
+		"first_name" : "ArtistFirst38",
+		"last_name" : "ArtistLast38",
+		"festival_id" : 10,
+		"festival_name" : "Pulse University10",
+		"festival_year" : 2027,
+		"warm_up_appearances" : 4
+	},
+	{
+		"artist_id" : 23,
+		"first_name" : "ArtistFirst23",
+		"last_name" : "ArtistLast23",
+		"festival_id" : 9,
+		"festival_name" : "Pulse University9",
+		"festival_year" : 2026,
+		"warm_up_appearances" : 3
+	},
+	{
+		"artist_id" : 5,
+		"first_name" : "ArtistFirst5",
+		"last_name" : "ArtistLast5",
+		"festival_id" : 7,
+		"festival_name" : "Pulse University7",
+		"festival_year" : 2024,
+		"warm_up_appearances" : 3
+	}
+]

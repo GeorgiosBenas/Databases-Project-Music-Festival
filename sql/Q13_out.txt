@@ -1,0 +1,32 @@
+[
+	{
+		"artist_id" : 1,
+		"first_name" : "ArtistFirst1",
+		"last_name" : "ArtistLast1",
+		"continents_participate" : 6
+	},
+	{
+		"artist_id" : 21,
+		"first_name" : "ArtistFirst21",
+		"last_name" : "ArtistLast21",
+		"continents_participate" : 4
+	},
+	{
+		"artist_id" : 22,
+		"first_name" : "ArtistFirst22",
+		"last_name" : "ArtistLast22",
+		"continents_participate" : 4
+	},
+	{
+		"artist_id" : 11,
+		"first_name" : "ArtistFirst11",
+		"last_name" : "ArtistLast11",
+		"continents_participate" : 3
+	},
+	{
+		"artist_id" : 12,
+		"first_name" : "ArtistFirst12",
+		"last_name" : "ArtistLast12",
+		"continents_participate" : 3
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"event_id" : 28,
+		"event_name" : "event_s28",
+		"festival_name" : "Pulse University10",
+		"festival_year" : 2027,
+		"avg_review_score" : 5.0000
+	},
+	{
+		"event_id" : 29,
+		"event_name" : "event_s29",
+		"festival_name" : "Pulse University10",
+		"festival_year" : 2027,
+		"avg_review_score" : 2.0000
+	},
+	{
+		"event_id" : 30,
+		"event_name" : "event_s30",
+		"festival_name" : "Pulse University10",
+		"festival_year" : 2027,
+		"avg_review_score" : 3.0000
+	}
+]
